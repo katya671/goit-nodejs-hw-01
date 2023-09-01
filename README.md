@@ -8,7 +8,7 @@ node index.js --action="list"
 ## Отримуємо контакт по id і виводимо у консоль об'єкт контакту або null, якщо контакту з таким id не існує.
 
 node index.js --action="get" --id 05olLMgyVQdWRwgKfg5J6
-![Screenshot 2](https://i.ibb.co/68ZWrqq/2.png)
+![Screenshot 2](https://i.ibb.co/6mQChdW/2.png)
 
 ## Додаємо контакт та виводимо в консоль об'єкт новоствореного контакту
 
@@ -18,4 +18,4 @@ node index.js --action="add" --name Mango --email mango@gmail.com --phone 322-22
 ## Видаляємо контакт та виводимо в консоль об'єкт видаленого контакту або null, якщо контакту з таким id не існує.
 
 node index.js --action="remove" --id qdggE76Jtbfd9eWJHrssH
-![Screenshot 4](https://i.ibb.co/xh3Y151/4.png)
+![Screenshot 4](https://i.ibb.co/qrGhsjP/4.png)
